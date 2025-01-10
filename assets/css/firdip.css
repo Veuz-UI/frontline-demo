@@ -4348,6 +4348,7 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
   z-index: 1;
   padding-bottom: 120px;
+  margin: 90px 0px 0px 0px;
   background: var(--firdip-white, #fff);
 }
 @media (max-width: 991px) {
