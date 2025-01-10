@@ -3280,8 +3280,14 @@ h6 {
 }
 .main-header__right__info__item {
   font-size: 22px;
-  color: #1e1e1e;
+  color: var(--firdip-white);
+  height: 40px;
+  width: 40px;
+  background-color: var(--firdip-black);
   transition: all 0.4s ease-in-out;
+  display: grid;
+  place-content: center;
+
 }
 @media (max-width: 575px) {
   .main-header__right__info__item {
