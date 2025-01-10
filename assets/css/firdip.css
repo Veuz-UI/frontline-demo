@@ -4360,6 +4360,7 @@ body.megamenu-popup-active .mobile-nav__content {
 @media (max-width: 991px) {
   .why-choose-two {
     padding-bottom: 0;
+    margin-top: 0px;
   }
 }
 .why-choose-two__thumb {
